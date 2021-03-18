@@ -102,3 +102,6 @@ https://www.programiz.com/python-programming/examples Great tutorials
 
 Xiaowei Li(Rose)
 https://www.youtube.com/watch?v=kqtD5dpn9C8  -Python Tutorial for Beginners [Quick & Easy]
+
+Lakshitha Peiris( Mt.Albert)
+https://www.youtube.com/watch?v=t8pPdKYpowI I found this youtube tutoirial very easy to understand. The girl knows how to teach someone has Zero knowledge in programing.
